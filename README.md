@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @baileraj - 
-John Bailer, Miami University Professor of Statistics http://www.users.miamioh.edu/baileraj
+- 👋 Hi, I’m John Bailer (@baileraj), Miami University Professor of Statistics http://www.users.miamioh.edu/baileraj/
 - 👀 I’m interested in -
 Life, The Universe and Everything, collaborating with journalists on the Stats+Stories podcast and near term, building a scripting and programming class for our analytics majors
 - 🌱 I’m currently learning -
